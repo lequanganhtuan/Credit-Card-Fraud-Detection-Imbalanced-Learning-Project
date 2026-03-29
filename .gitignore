@@ -1,3 +1,4 @@
 *.csv
 *.zip
+*.pkl
 data/creditcard.csv
